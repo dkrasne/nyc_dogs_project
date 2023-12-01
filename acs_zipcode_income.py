@@ -1,3 +1,4 @@
+import os
 import requests
 import json
 import csv
@@ -11,7 +12,7 @@ brooklyn_zips = [str(zipcode) for zipcode in list(range(11201,11257))]
 nyc_zips = manhattan_zips + staten_zips + bronx_zips + queens_zips + brooklyn_zips
 
 ###################### LOADING ACS 5-YR 2017-2021 DATA #######################
-census_api_key = "b08c2ad933f74f40428c15d03a91c23b7e53854d" #don't share this
+census_api_key = os.environ["CENSUS_API_KEY"]
 acs_median_income_variable = "B19013_001E"
 acs_base_url = "https://api.census.gov/data/2021/acs/acs5"
 acs_zipcode_income = []

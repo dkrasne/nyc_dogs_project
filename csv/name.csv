@@ -1,0 +1,89 @@
+,borough,animalgender,animalbirth,extract_year,0
+12,Bronx,M,2020,2022,11
+4,Bronx,F,2020,2022,5
+7,Bronx,M,2017,2017,5
+0,Bronx,F,2017,2017,4
+9,Bronx,M,2018,2018,4
+3,Bronx,F,2019,2022,3
+2,Bronx,F,2018,2018,2
+5,Bronx,F,2021,2022,2
+10,Bronx,M,2018,2022,2
+11,Bronx,M,2019,2022,2
+1,Bronx,F,2017,2018,1
+6,Bronx,M,2016,2016,1
+8,Bronx,M,2017,2018,1
+13,Bronx,M,2021,2022,1
+35,Brooklyn,M,2020,2022,158
+21,Brooklyn,F,2020,2022,136
+34,Brooklyn,M,2019,2022,121
+20,Brooklyn,F,2019,2022,100
+29,Brooklyn,M,2017,2017,95
+32,Brooklyn,M,2018,2018,87
+16,Brooklyn,F,2017,2017,78
+18,Brooklyn,F,2018,2018,59
+36,Brooklyn,M,2021,2022,50
+22,Brooklyn,F,2021,2022,38
+28,Brooklyn,M,2016,2017,30
+27,Brooklyn,M,2016,2016,22
+19,Brooklyn,F,2018,2022,20
+33,Brooklyn,M,2018,2022,19
+17,Brooklyn,F,2017,2018,17
+30,Brooklyn,M,2017,2018,17
+15,Brooklyn,F,2016,2017,12
+14,Brooklyn,F,2016,2016,7
+23,Brooklyn,M,2004,2016,1
+24,Brooklyn,M,2006,2016,1
+25,Brooklyn,M,2008,2016,1
+26,Brooklyn,M,2015,2016,1
+31,Brooklyn,M,2017,2022,1
+52,Manhattan,M,2020,2022,15
+51,Manhattan,M,2019,2022,10
+42,Manhattan,F,2020,2022,9
+47,Manhattan,M,2017,2017,6
+41,Manhattan,F,2019,2022,5
+40,Manhattan,F,2018,2018,4
+49,Manhattan,M,2018,2018,4
+38,Manhattan,F,2017,2017,2
+37,Manhattan,F,2016,2016,1
+39,Manhattan,F,2017,2018,1
+43,Manhattan,F,2021,2022,1
+44,Manhattan,M,2014,2016,1
+45,Manhattan,M,2016,2016,1
+46,Manhattan,M,2016,2017,1
+48,Manhattan,M,2017,2018,1
+50,Manhattan,M,2018,2022,1
+53,Manhattan,M,2021,2022,1
+70,Queens,M,2020,2022,30
+60,Queens,F,2019,2022,22
+61,Queens,F,2020,2022,18
+69,Queens,M,2019,2022,18
+67,Queens,M,2018,2018,16
+65,Queens,M,2017,2017,15
+58,Queens,F,2018,2018,10
+56,Queens,F,2017,2017,9
+71,Queens,M,2021,2022,7
+66,Queens,M,2017,2018,6
+68,Queens,M,2018,2022,5
+64,Queens,M,2016,2017,4
+54,Queens,F,2016,2016,3
+55,Queens,F,2016,2017,3
+59,Queens,F,2018,2022,3
+57,Queens,F,2017,2018,2
+62,Queens,F,2021,2022,2
+63,Queens,M,2016,2016,2
+77,Staten Island,F,2019,2022,20
+78,Staten Island,F,2020,2022,15
+86,Staten Island,M,2020,2022,15
+81,Staten Island,M,2017,2017,10
+85,Staten Island,M,2019,2022,10
+83,Staten Island,M,2018,2018,8
+76,Staten Island,F,2018,2018,5
+84,Staten Island,M,2018,2022,4
+74,Staten Island,F,2017,2017,3
+80,Staten Island,M,2016,2016,3
+87,Staten Island,M,2021,2022,3
+72,Staten Island,F,2016,2016,2
+75,Staten Island,F,2017,2018,2
+79,Staten Island,F,2021,2022,2
+82,Staten Island,M,2017,2018,2
+73,Staten Island,F,2016,2017,1

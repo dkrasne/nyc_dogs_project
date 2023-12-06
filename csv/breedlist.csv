@@ -1,900 +1,1568 @@
 breed
-"Pit Bull, American Crossbreed"
+Cavalier King Charles Spaniel
+German Shepherd Crossbreed
+American Pit Bull Mix / Pit Bull Mix
+Bichon Frise Crossbreed
+Boston Terrier
+Cocker Spaniel Crossbreed
+Goldendoodle
+Maltese
+Maltipoo
+Miniature Pinscher
+Morkie
+Pomeranian
+"Poodle, Miniature"
+Shiba Inu
+Shih Tzu
+Shih Tzu Crossbreed
+Yorkshire Terrier
+Yorkshire Terrier Crossbreed
+Chihuahua
+Maltese Crossbreed
+Pomeranian Crossbreed
+Poodle
+Pug Crossbreed
+Rat Terrier
+Not Provided
+Poodle Crossbreed
+Terrier Crossbreed
+Australian Shepherd
+Bichon Frise
+Cockapoo
+Havanese
+"Poodle, Toy"
+Cocker Spaniel
+Unknown
 Boxer
+Tibetan Mastiff
+"Bull Dog, English"
+Dachshund
+French Bulldog
+Golden Retriever
+Pomsky
+Pug
+Puggle
+Siberian Husky Crossbreed
+Beagle
+Jack Russell Terrier
+Pekingese
+Pembroke Welsh Corgi Crossbreed
+Siberian Husky
+Anatolian Shepherd Dog
+Australian Cattledog
+Dutch Shepherd
+Labrador Retriever
+Lhasa Apso
+"Shar-Pei, Chinese"
+Terrier mix
+"Welsh Corgi, Pembroke"
+German Shepherd Dog
+Beagle Crossbreed
+Bulldog
+"Schnauzer, Miniature Crossbreed"
+Rottweiler
+Australian Cattle Dog
+Chihuahua Crossbreed
+Miniature Schnauzer
+Papillon
+Labrador Retriever Crossbreed
+"Bull Dog, American"
+American Staffordshire Terrier
+AM PIT BULL TERRIER MIX
+Doberman Pinscher
+American Pit Bull Terrier/Pit Bull
+American Eskimo dog
+"Poodle, Standard"
+Coton de Tulear
+"Schnauzer, Miniature"
+Catahoula Leopard Dog
+"Jindo Dog, Korea"
+Shepard Crossbreed
+Whippet
+Bassett Hound
+Dalmatian
+Rhodesian Ridgeback
+Dachshund Crossbreed
+Brussels Griffon
+Petit Basset Griffon Vendeen
+Pointer
+Weimaraner
+Border Collie
+Airedale Terrier
+English Cocker Spaniel
+Jack Russell Terrier Crossbreed
+Tibetan Terrier
+Great Pyrenees
+Cairn Terrier
+Jindo
+Plott
+Collie Crossbreed
+Wheaton Terrier
+Wire Fox Terrier
+Puli
+Labradoodle
+Chow Chow
+Greyhound
+Yorkie Poo
+AUS SHEPHERD/BORDER COLLIE MIX
+Border Collie Crossbreed
+LABRADOR RETRIEVER MIX
+Lakeland Terrier
+NO IDEA
+SHARPEI / PUGGLE
+Staffordshire Bull Terrier
+Vizsla
+BORDER COLLIE/TERRIER
+Pharaoh Hound
+English Springer Spaniel
+Gordon Setter
+"Mastiff, Bull"
+SHI-POO
+West High White Terrier
+chih jack russ
+Afghan Hound Crossbreed
+"Dachshund, Wirehaired"
+Irish Setter
+American Foxhound
+Dachshund Smooth Coat
+Schnauzer Crossbreed
+Manchester Terrier
+Treeing Walker Coonhound
+West Highland White Terrier
+Italian Greyhound
+"Bull Dog, French"
+Entlebucher Mountain Dog
+Giant Schnauzer
+"Dachshund, Wirehaired, Miniature"
+Belgian Malinois
+Collie Beared Mix
+Rottweiler Crossbreed
+"Collie, Border"
+Terrier Mix
+Bull Terrier
+Cane Corso
+"Dachshund, Long Haired Miniature"
+Redbone Coonhound
+Cotton De Tulear
+Brussels Griffon Crossbreed
+Boxer Crossbreed
+"Schnauzer, Giant"
+Dachshund Smooth Coat Miniature
+Dalmation/Terrier/Poodle
+Shetland Sheepdog
+Hound/Lab
+Mixed
+Sheltie Poo
+POODLE
+Border Terrier
+Miniature American Shepherd
+Miniature Australian Shepherd
+Pembroke Welsh Corgi
+Akita
+Japanese Spitz
+American Bully
+Alaskan Klee kai
+Parson Russell Terrier
+Silky Terrier
+Portuguese Water Dog
+German Shorthaired Pointer
+Red Nose Pit Bull
 Basenji
 Akita Crossbreed
-Maltese
-Unknown
-Labrador Retriever Crossbreed
-Dachshund Smooth Coat
-"Bulldog, French"
-"Pinscher, Miniature"
-Yorkshire Terrier
-"Dachshund Smooth Coat, Miniature"
-German Shepherd
-Cavalier King Charles Spaniel
-"Pit Bull, American / Pit Bull"
-Beagle
-Havanese
-"Poodle, Standard"
-German Shorthaired Pointer
-Bull Terrier
-"Dachshund, Long Haired"
-"Schnauzer, Miniature"
-Labrador Retriever
-Boston Terrier
-Norfolk Terrier
-Bichon Frise
-Golden Retriever
-Chihuahua
-Border Collie
-"Poodle, Miniature"
-Shih Tzu
-Kooikerhondje
-"Bulldog, English"
-American Eskimo Dog
-"Collie, Smooth Coat"
-Cocker Spaniel
-Puggle
-Lhasa Apso
-Siberian Husky
-Poodle
-"Poodle, Toy"
-Jack Russell Terrier
-Bulldog
-Labradoodle
-Shiba Inu
-Pug
-"Dachshund, Long Haired, Miniature"
-American Staffordshire Terrier
-Tibetan Terrier
-German Shepherd Crossbreed
-Chinese Crested
-Italian Greyhound
-Anatolian Shepherd Dog
-Manchester Terrier
-Border Terrier
-Vizsla
-Beagle Crossbreed
-Pointer
-Australian Cattle Dog
-Weimaraner
-Pomeranian
-Brussels Griffon
-Wire Fox Terrier
-"Mastiff, Bull"
-German Wirehaired Pointer
-Chow Chow
-Shetland Sheepdog
-English Setter
-"Welsh Corgi, Cardigan"
-Dachshund
-Rhodesian Ridgeback
-Rottweiler
-Papillon
-Norwich Terrier
-Soft Coated Wheaten Terrier
-Dalmatian
-Cane Corso
-Collie Crossbreed
-Mastiff
-Belgian Malinois
-"Fox Terrier, Toy"
-Greyhound
-"Australian Shepherd, Miniature (Miniature American Shepherd)"
-Standard Schnauzer
-Australian Shepherd
-Basset Hound
-Brittany Spaniel
-Staffordshire Bull Terrier
-"Schnauzer, Standard"
-"Coonhound, American English"
-Portuguese Water Dog
-Silky Terrier
-Doberman Pinscher
-Scottish Terrier
-Schipperkee
-Pekingese
-Great Dane
-Newfoundland
-Bouvier Des Flandres
-Bernese Mountain Dog
-"Welsh Corgi, Pembroke"
-"Shar-Pei, Chinese"
-English Springer Spaniel
-Irish Terrier
-Cairn Terrier
-Tibetan Spaniel
-Portuguese Podengo Pequeno
-Welsh Terrier
-Catahoula Leopard Dog
-Bloodhound
-Rat Terrier
-Field Spaniel
-Australian Kelpie
-Parson Russell Terrier
-West High White Terrier
-Cotton De Tulear
-Australian Terrier
-"Mastiff, Old English"
-Sealyham Terrier
-Old English Sheepdog
-Whippet
-"Pointer, German Shorthaired"
-Nova Scotia Duck Tolling Retriever
-Plott
-"Collie, Rough Coat"
-Lancashire Heeler
-Schipperke
-"Dachshund, Wirehaired, Miniature"
-Russell Terrier
-West Highland White Terrier
-"Coonhound, Treeing Walker"
-Samoyed
-Australian Silky Terrier
-Collie
-English Cocker Spaniel
-Terrier
-"Pointer, German Wirehaired"
-Cockapoo
-Korean Jindo
-Dogue De Bordeaux
-"Schnauzer, Giant"
 Eurasier
-Saint Bernard
 "Coonhound, Redbone"
-Coton De Tulear
-Irish Red And White Setter
-Alaskan Malamute
-Wirehaired Pointing Griffon
-Petit Basset Griffon Vendeen
-"Coonhound, Black And Tan"
-Briard
-Akita
-Pharaoh Hound
-American Foxhound
-Bullmastiff
-German Pinscher
-Afghan Hound
-"Coonhound, Bluetick"
-Irish Wolfhound
-Affenpinscher
-Great Pyrenees
-Dutch Shepherd
-"Coonhound, Blue Tick"
+"Welsh Corgi, Cardigan"
+JACK RUSS / CHIH
+Coonhound/Shepherd Mix
+Norfolk Terrier
+Great Dane
 Japanese Chin
-Chesapeake Bay Retriever
-Leonberger
-Terrier Crossbreed
-Yorkshire Terrier Crossbreed
-Xoloitzcuintli
-Spinone Italiano
-"Dachshund, Wirehaired"
-Kerry Blue Terrier
-Brittany
-Pomeranian Crossbreed
-Belgian Tervuren
-Keeshond
-Flat-Coated Retriever
-German Spitz
-Lowchen
-Chihuahua Crossbreed
-Irish Setter
-Smooth Fox Terrier
-Norwegian Elkhound
-Polish Lowland Sheepdog
-Puli
-"Mastiff, Neapolitan"
-Welsh Springer Spaniel
-Lakeland Terrier
-American Leopard Hound
-Lagotto Romagnolo
-"Collie, Bearded"
-Maltese Crossbreed
-Perro De Presa Canario
-Japanese Chin / Spaniel
-Belgian Sheepdog
-Portuguese Sheepdog
-Shih Tzu Crossbreed
-Bedlington Terrier
-Bolognese
-Karelian Bear Dog
-Clumber Spaniel
-"Bull Terrier, Miniature"
-Mudi
-Giant Schnauzer
-Bearded Collie
-Biewer Terrier
-Poodle Crossbreed
-Airedale Terrier
-Skye Terrier
-Border Collie Crossbreed
-Entlebucher Mountain Dog
-English Toy Spaniel
-Thai Ridgeback
-Maltipoo
-Borzoi
-Fila Brasileiro
-Curly-Coated Retriever
-Morkie
-Greater Swiss Mountain Dog
-Glen Of Imaal Terrier
-English Foxhound
-Tibetan Mastiff
-American Bully
-Rottweiler Crossbreed
-Dachshund Crossbreed
-Harrier
-Canaan Dog
-Schnauzer Crossbreed
-Goldendoodle
-Kai Ken
-Finnish Spitz
-Scottish Deerhound
-Treeing Tennessee Brindle
-"Mastiff, Tibetan"
-Dogo Argentino
-Saluki
-Gordon Setter
-Peruvian Inca Orchid
-Dandie Dinmont Terrier
-Small Munsterlander Pointer
-Belgian Griffon
-German Longhaired Pointer
-Polish Hound
-Hovawart
-American Hairless Terrier
-Boykin Spaniel
-Cesky Terrier
-Otterhound
+German Pinscher
+Irish Wolfhound
+Nova Scotia Duck Tolling Retriever
+Scottish Terrier
+Bluetick Coonhound
 Boerboel
-Ibizan Hound
-Chinook
-Sussex Spaniel
-Bracco Italiano
-Russian Wolfhound
-Boxer Crossbreed
-Siberian Husky Crossbreed
-Kromfohrlander
-Cocker Spaniel Crossbreed
-Pug Crossbreed
-Russian Toy
-Spanish Water Dog
-American Water Spaniel
-Cirneco Dell
-Pyrenean Shepherd
-"Bulldog, American"
-Berger Picard
-Wirehaired Vizsla
-Kuvasz
-Black Russian Terrier
-Norwegian Buhund
-Barbet
-"Welsh Corgi, Pembroke Crossbreed"
-"Schnauzer, Miniature Crossbreed"
-Bichon Frise Crossbreed
-Pumi
-Grand Basset Griffon Vendeen
-"Fox Terrier, Miniature"
-Japanese Spitz
-Jack Russell Terrier Crossbreed
-French Spaniel
-Bloodhound Crossbreed
-Shiba Inu Crossbreed
-Hamiltonstovare
-Rat Terrier Crossbreed
-Afghan Hound Crossbreed
-Finnish Lapphund
-Swedish Vallhund
-Neapolitan Mastiff
-Icelandic Sheepdog
-Brussels Griffon Crossbreed
-Belgian Laekenois
-Estrela Mountain Dog
-Pomsky
 Beauceron
-Jagdterrier
-Shepherd Crossbreed
-Azawakh
-Mountain Feist
+Canaan Dog
+Cardigan Welsh Corgi
+"Collie, Rough Coat"
+American English Coonhound
+Affenpinscher
+Lowchen
+Basset Hound
 English Setter Crossbreed
-Baladi
-Tosa
-Stabyhoun
-Basset Hound Crossbreed
-Dalmatian Crossbreed
-Irish Water Spaniel
-Patterdale Terrier
-Kishu Ken
-Swedish Lapphund
-Greek Shepherd
-Alaskan Klee Kai
-Olde English Bulldogge
-Tornjak
-Not Provided
-Cavachon
-Shar Pei
-Zuchon
-Giant Schnoodle
-American Staffordshire Terrier Crossbreed
-Crossbreed Hound
-English Goldendoodle
-"Australian Shepherd, Toy"
-Shih-Poo
-Husky Crossbreed
-Poodle / Bichon
-Teddy Bear
-Malti-Zu
-Dachshund / Pomeranian
-Mi-Ki
-"Maltipoo,Toy"
-Pit Bull
-Basset Crossbreed
-Crossbreed
-"Pit Bull, Red Nose"
-Cavapoo
-Pit Bull Crossbreed
-"Dachshund, Miniature"
-Cattle Dog / Blue Heeler
-Labrador Crossbreed
-"Shepherd, Terrier, Mastiff Crossbreed"
-Blue Merle Sheltie
-Yellow Labrador
-Norkie
-Chihuahua / Dachshund
-Terrier / Chihuahua / Maybe
-Terrier / Shepherd
-Yorkipoo
-Pyrenees Poodle Crossbreed
-Black Labrador Retriever Crossbreed
-Australian Shepherd Crossbreed
-Chorkie
-Retriever Crossbreed
-Shar-Pei
-Malshi
-Soft Coated Wheaten Crossbreed
-Chow Chow Crossbreed
-Yorkshire Terrier / Chihuahua
-Havapoo
-Labrador Retrieve Crossbreed
-Westy / Yorkshire Terrier / Chihuahua
-"Pit Bull, Blue Nose"
-Cocker / Cavalier
-Yorkshire Terrier-Shih Tzu
-Beagle / Dachsund
-Bulldog Crossbreed
-Maltese / Yorkshire Terrier
-American Terrier
-Poochon
-Havanese / Chihuahua
-Shorkie
-Collie Shepherd Crossbreed
-Corgi Crossbreed
-Boston Terrier-Beagle
-Lhasa Apso / Shih Tzu
-"Pinscher, Miniature, Crossbreed"
-Boston Terrier Crossbreed
-Yellow Labrador Crossbreed
-Cocker-Pug
-Terrier / Hound
-"Shepherd, Miniature, Crossbreed"
-Shih Tzu / Lhasa
-English Mastiff
-Terrier / Havanese
-Peekapoo
-Havanese-Poodle
-Yorkshire Terrier / Shih Tzu
-Bichon-Poodle
-Malchi
-Yorkshire Terrier-Bichon
-Schnauzer / Poodle
-Cigi
-"Pit Bull, Brindle"
-Malagasssy Coton Du Tulear
-Dachshund / Poodle
-Labrador Retriever / Chow Chow
-"Vizsla, Miniature Pinscher"
-Collie / Retriever
-Cattle Dog Crossbreed
-Chihuahua Wee Nie
-Papillion Crossbreed
-Westie-Poodle
-Whoodle
-Peke-A-Pomeranian
-Chocolate Labrador Retriever
-Golden Retriever Crossbreed
-Tibetan Terrier Crossbreed
-Catahoula
-Cockapoo Crossbreed
-Staffordshire / Pit
-Bernses Mount Dog Crossbreed
-Ir Terrier / Bas Hou
-Irish Weaton
-Chihuahua-Spaniel
-Ori-Pei
-Labrador Retriever Bord Collie Crossbreed
-Bichon F / T Pdle
-Chihuahua-Poo
-Pit Crossbreed
-Jack Russell Crossbreed
-Chish Crossbreed
-Lhasa / Poodle
-Crossbreed Poodle
-Spaniel / Chihuahua
-Sheltie Crossbreed
-Terrier / Whippet
-Chihuahua-Jack Russell Terrier
-Malshi Crossbreed
-Yorkshi / Maltese
-Jack Russell
-Pointer Crossbreed
-"Pit Bull, Blue Nose Crossbreed"
-Malsish
-Louisiana Catahoula Leopard
-Spaniel Crossbreed
-Fox Terrier / C Spaniel
-Yorker / Jackrusell / Chihuahua
-Pinscher Crossbreed
-Min Schnauzer / Min Poodle
-Shepherd / Collie
-Yorkshire Terrier / Maltese
-Schnoodle
+Old English Sheepdog
+Bedlington Terrier
+"Collie, Smooth Coat"
+Sealyham Terrier
+Japanese Chin/Spaniel
+Irish Terrier
+Soft Coated Wheaten Terrier
+Smooth Fox Terrier
 Goldendoddle
-Bull Mastiff Crossbreed
-Teacup Maltese
-Jack Russell Cross
-Joy Fox Terrier
-W High Wt Terrier
-Poodle / Yorky
-Crossbreed Terrier
-Labrador Retriever Pointer Hound
-Chihuahua Pomeranian
-Shorkie Tzu
-Shih-Poo Crossbreed
-Lakelandterrier
-Coonhound Crossbreed
-Husky / Kelpie
-Carolina Dog
-Viszla Crossbreed
-Havacov
-American Eskimo Dog Crossbreed
-Shih Tzu-A-Poo
-Beagle / English Bulldog
-Westie
-Shorky
-Chihuahua / Yorkshire Terrier
-Chihuahua / Poo
-Great Swiss Mountain Dog
-Havanese Crossbreed
-Chihuahua-Yorkshire Terrier
-Australian Terrier Crossbreed
-Bichon-Poo
-"Austrialian Shepherd, Toy"
-German Shepherd / Corgi
-Lhaso Apso Crossbreed
-Xoloitzcuintli / Basset Hound
-Jack Russell Terrier / Puggle
-Bulldog / Beagle
-Fox Hound Crossbreed
-Cavalier
-Berger Pichard
-Shotzy Crossbreed
-"Poodle Crossbreed, Toy"
-"Dacshund, Miniature"
-Whippet Crossbreed
-Lhasa Apso Crossbreed
-Silky-Poo
-Portugese W Dog
-Yorkshire Terrierdoodle
-Border Collie / Australian Shepherd
-Labrador Retriever / Doberman / Sheepdog
-Westie Terrier-Schnauser Crossbreed
-Blue Heeler
-Australian Labradoodle
-Havanese / Maltese
-Chow Crossbreed
-Golden Retiever Crossbreed
-Australian Cattle Dog Crossbreed
-Staffordshire Shire Crossbreed
-Cockalier
-Fox / Sheltie
-Gsd-Terrier
-Plott Hound Crossbreed
-Terrier Daschund Crossbreed
-"Schnauzer, Toy"
-Staffordshire Terrier Crossbreed
-Corky Crossbreed
-Poodle / Maltese
-Shinese
-Boggle
-Labrador / Boxer / Beagle
-Lhasa Poo
-Pekingese Crossbreed
-"Welsh Corgi, Pembroke, Dachshund, Spaniel Crossbreed"
-Russkiy Toy Smoothhaired
-Ital Greyhound Crossbreed
-Huckapoo
-Malshipoo
-Shichon
-French Beagle
-Hound Crossbreed
-Bichon / Poodle
-"Rotweiller, German Shepherd"
-Pit Bull / Pointer
-Havachon
-Fox Terrier Crossbreed
-Lhasa-Poo
-Feist Crossbreed
-Chihuahua Terrier
-Boxer Chow Labrador Retriever Crossbreed
-Lhasa / Maltese
-Malti-Shi
-British Labrador Retriever
-Bichon / Shih Tzu
-Mastiff Crossbreed
-Bichon Poo
-Pointer / Border Collie
-Sheltie Poo
-Frenchie
-Lhasa Apso / Terrier
-Part Golden Retriever
-Dutch Shepherd Crossbreed
-Doberman
-Maltese / Chihuahua
-Basenji Crossbreed
-Chiuaua Pug Crossbreed
-Catahoula Leopard
-Yellow Labrador Retriever Crossbreed
-Chihuahua / Terrier
-Labrador / Terrier
-Golden Retriever / Cattle Dog
-Border Collie-Shepherd Crossbreed
-Husky / Labrador Retriever
-Havadoodle
-Australian Shepherd Dachshund Crossbreed
-Dachsund Crossbreed
-Basset Terrier Crossbreed
-German Crossbreed
-Chihuahua / Miniature Pinscher
-Chinese Crested Powder Puff
-Askal
-Shiffon
-Pit Bull / Shepherd
-"Schnauzer, Miniature / Silky Terrier"
-Spanish Wt Dog
-"Poodle, Miniature, Crossbreed"
-Shicon
-Shar-Pei / Puggle
-"Bulldog, Miniature"
-Labrado / Great D
-Mahshih
-Lhasa Apso / Poodle
-Lhasa-Bijon
-Bruss Griffon Crossbreed
-Beagle / Hound
-Dachshund / Shih Tzu
-"Coonhound, Red Tick"
-Multi-Poo
-Shih Tzu / Terrier
-Snoodle
-Labrador Retriever Terrier Crossbreed
-German Shepherd / Husky
-Shepherd / Dachshund
-English Shepher
-Coton
-Dachshund / Petit Basset Griffon Vendeen
-Bichon / Cairn
-Collie Retriever Crossbreed
-Bearded Collie Crossbreed
-Pug / Beagle
-"Maltese, Toy"
-"Bulldog, French / Pug"
-Bichon Crossbreed
-Yorkshire Terrier / Bichon
-Pit / Labrador Retriever
-Yorkshire Terrier Maltese
-English Pug
-Yorkshire Terrier / Fox Terrier
-Yellow Labrador Retriever
-Dachshund / Chihuahua
-Maltese / Cavalier King Charles Spaniel
-Pit Bull / German Shepherd
-Other
-Border Collie-Black Labrador Retriever Crossbreed
-Brauzer
-Slorky
-Havanese / Poodle
-Ori Pei
-Chihuahua / Poodle
-Poodle / Shih Tzu
-Potcake
-Westminster Terrier
-Puggle (Pug Crossbreed)
-Chihuahua / Terrier / Dachshund
-YorkipooGrezley
-"Labradoodle, Miniature"
-Golden Retriever / Great Prenees
-Bugg
-Pompoo
-Crossbreed Chow
-Wire Haired Terrier
-Bergamasco
-Boxer-Labrador Retriever Crossbreed
-Canaan
-Taiwan Mountain
-Labrador / Coon Hound
-Caroline Dog
-Australian Shepherd Cattle Dog Heeler
-Irish Jack Russell
-Yorkshire / Maltese
-"Goldendoodle, Miniature"
-Corgi
-Pug / Chihuahua / Pomeranian
-Italian Spinone
-Labrador / G Shepherd
-Black Labrador Retriever Multi
-French Poodle
-Maerican Staffordshire Crossbreed
-Long Hair Chihuahua
-Catahoula Leopard Cur
-Teacup Poodle
-Catahoula Leopard Crossbreed
-Westi-Poo
-Shipa
-Peagle
-Labrador / Collie
-Shih Tzu / Papillion
-Labrador Retriever-Chow-Newfie Crossbreed
-Bichon-Poodle Crossbreed
-Chiweenie
-Fox Terrier
-Yorkshire Terrier Rat Terrier
-Matipoo
-Beagle / Dachshund
-Labrador Retriever Bord Collie
-Labrador / Cattle Dog
-Pomapoo
-Small Munsterlander
-Min Pi N / Poodle
-American Spaniel Crossbreed
-German Shepherd Rottweiler
-Puggle Crossbreed
-Jack Russell Terrier / Chihuahua
-Chihuahua Jack Russell
-Chintese
-Terrier Mx
-Aierdale Terrier
-Labrador Retriever-Border Collie Crossbreed
-Silky Terrier Crossbreed
-No Idea
-Pit Bull / Mastiff
-Corgi Rat Terrier
-Chihuahua / Shih Tzu
-Hava Poo
-Schnoodle Crossbreed
-Shih Chon
-Catahoula Labrador Retriever Crossbreed
-Spaniel / Labrador
-Rescued Beagle / Shih Tzu
-Perkingese Crossbreed
-Boston Terrier / Lhasa Apso
-Havanese / Coton Detulear
-Shih Tzu / Yorkshire Terrier
-Terrier Boxer Crossbreed
-Soft Coated Wheaten Terrier Crossbreed
-Lhasa Apso / Pood
-Maltese / Terrier
-"Pinscher, Miniature Crossbreed"
-Bost Terrier / Lhasa
-Engish Pointer
-Basenji / Whippet
-Husky Malamute
-Heeler Crossbreed
-Hunting Dog / Rescue
-Whippet-Labrador Crossbreed
-Parsons Russell Terrier Crossbreed
-Yorkshire Terrier-Tzu
-American Eskimo / Maltese
-Yorkshire Terrier Toy
-Yorky
-Pit Bull Mastiff
-Havapeke
-Shepherd / Hound
-"Manchester Terrier, Toy"
-Labrador Retriever Golden Retriever Cross
-Shih Tzu Poodle Crossbreed
-"Bulldog, Boston"
-Poodle / Terrier
-Italian / Sicilian Hound
-Jack Rus Chihuahua
-Blue Heeler / Schnauser
-Beagle / Chihuahua
-English Pointer
-Retriever / Chow
-Chihuahua Terrier Crossbreed
-Labrador Retriever Hound Crossbreed
-Pug / Chihuahua
-Australian Heeler Crossbreed
-Pyrenees Crossbreed
-Shorkie-Tzu
-English Pointer Crossbreed
-Shepherd / Hound / Labrador Retriever
-Pit Terrier Labrador Retriever
-Labrador Retriever / Golden Retriever
-American Eskimo / Poodle
-Pug-Bijon
-Poodle / Italian Greyhound
-Maltipom
-Malkie
-Spinone
-Maltese-Shih Tzu
-Boston Terrier / Min Boxer
-American Staffordshie
-Multi
-Shihchon
-Bichon Frise / Shih Tzu
-Dachshund-Scottie
-Shepherd / Chow
-Chihuahua / Greyhound
-Jackabee / Russell
-Spitz Crossbreed
-"Pinscher, Miniature / Boxer"
-Lhasa Apso / Shih
-Welsh Corgi Crossbreed
-Russell
-Papillon / American Eskimo
-Poo-Chon
-Corgy / Labrador
-Lg Hr Chihuahua
-Shih Tzu / Brussels Griffon
-Standard Poodle
-Schnauzer
-Manchester Shepherd Crossbreed
-Patterdale / Terrier
-Pinscher-Chihuahua
-Lhasa Apso Miix
-Schnauzer-Poodle
-Cokaspinial Poodle
-"Boston Terrier / Bulldog, French"
-Carolina Crossbreed
-Shepherd / Golden Retriever
-Terrier / Beagle
-English Bull Terrier
-Mastiff / Shepherd
-Austrian Hunting
-"Pit Bull, American"
-Pek-A-Tese
-King Charles Bichon
-Petersburg Orchid
-Sheep Dog
-Border Collie Australian Shepherd Crossbreed
-Small Fox Terrier
-Rottweiler / Labrador Retriever
-Poemranan Crossbreed
-Pomtese
-Crossbreed Corgi / Labrador Retriever
-Dachshund Chihuahua
-Staffordshire Ibizian Hound
-Boxer / Pit
-Podengo Pequeno
-Ridgeback / Rottweiler
-Husky Golden Retriever Crossbreed
-Labrador Retriever Golden Crossbreed
-Chocolate Labrador Crossbreed
-Labrador / Shih Tzu
-Malshi / Pomeranian
-Poodle / Yorkshire Terrier
-Nova Scotia Toller
-Shiba Inu / German Shepherd
-Bernedoodle
-Beagle / Rat Terrier
-Pit Bull / Labrador Retriever 
-Red Pit Crossbreed
-Royal Bah Potca
-Collie / Labrador Retriever
-Shar-Pei-Beagle
-Harrier Crossbreed
-Beagle-Jack Russell
-Biuchon Crossbreed
-Pomerian Crossbreed
-Crossbreed Golden Wolf Hound
-Pit Bull-Bulldog
-Poodle / Pompoo
-Shih Tzu / Bichon
-Fox Hound
-Pit Bull / Red / Blue Nose
-Goldendoole
-Lhatese
-Taiwan Mountain Dog
-Dachshund / Beagle
-Labrador Retriever Weimarner
-Brittany Crossbreed
-Beagle-Pei
-Dalhsund Maltese Terrier Crossbreed
-Australian Shepherd / Heeler / Retriever
-Spaniel / Terrier
-Poodle / Westie
-Polanese
-Black Mouth Cur
-Sheltie Shepherd Crossbreed
-German Shepherd / Siberian Husky
-"Beagle / Bulldog, French"
-Maltese-Terrier Crossbreed
-Wire Fox Terrier Crossbreed
-Chihuahua / Jack Russell
-Shepherd Pintzer
-Spanador
-Papitese
-Spitz
-Walker Hound
-Springer Spaniel
-"Doberman, Miniature"
-Havashire
-Husky German Shepherd Hound
-Crossbreed-Border Collie -Husky-Shepherd
-Pomeranian-Chihuahua
-Peke-A-Tese
-Maltese / Havanese
-Maltese Westie Crossbreed
-Cavalier King Charles Spaniel Crossbreed
-Frend Poo
-Sheltie
-Schipperke / Rescue
-Bichon Frise / Poodle-Terrier
-Shih Tzu & Poodle Crossbreed
-Golden Retriever Husky Crossbreed
-Shepherd / Boxer
-Yorkshire Terrier-Maltese
-Yorkshireterrier Crossbreed
-Golden Retriever / Chow
-Teddy-Bear
-Great Dane Crossbreed
-Schanuzer / Yorkshire Terrier
-Tea Cup Poodle
-White Terrier
-Shih Tzu Imperial
-"Sapsal, Korea"
-Corgi / Akita
-Teacup Yorkshire Terrier
-Cockachon
-Yorkshire Crossbreed
-Cairn Terrier Crossbreed
-Red Bone Coon Hound
-Collie Beared Crossbreed
-Border Collie / Terrier
-Cavashon
-Japanese Chin / Maltese
-Cavalier King Charles / Bichon
+Spitz Mix
+Brittany
+Lagotto Romagnolo
+Newfoundland
+Flat-Coated Retriever
+Chinese Shar-Pei
+Kai Ken
+Alaskan Malamute
+Samoyed
+Hound mix
+Bernese Mountain Dog
+"Pointer, German Shorthaired"
+Collie
+MINI DACHSHUND
+Standard Schnauzer
+Wirehaired Pointing Griffon
+Bloodhound Crossbreed
+"Dachshund, Long Haired"
+PAPILLION X
+Schipperkee
 Long Haired Chihuahua
-Tiny Goldendoodle
-Jack Russell / Basenji
-Jack Russell / Chihuahua
-Chihuhahu Crossbreed
-"Poodle, Miniature Crossbreed"
-Labrador Retriever / Pit Bull
-Chow Chow / Labrador Retriever
-Dogo Crossbreed
-Westiepoo
-Red Poodle
-Cavazoo
-Italian Greyhound Terrier Crossbreed
-Terrier Dachshund Crossbreed
-Labrador Retriever-Australian Shepherd Crossbreed
-Chihuahua Short Coat
-Schnocker
+Pit Bull Mix
+MIXED
+Skye Terrier
+Borzoi
+Miniature Bull Terrier
+Leonberger
+Shih Tzu/Papillion
+American Bull Dog
+German Longhaired Pointer
+St. Bernard
+Pharoh hound
+Australian Kelpie
+Brittany Spaniel
+Shiba Inu Crossbreed
+Xoloitzcuintli
+Cock-A-Poo
+Afghan Hound
+DUTCH SHEPHERD MIX
+Glen of Imaal Terrier
+"Pointer, German Wirehaired"
+Labra Doodle
 Airedale
-Maltese Chihuahua Crossbreed
-Scott Terrier / Shih Tzu
-Smooth Hair Fox Terrier
+Rat Terrier Crossbreed
+"Schnauzer, Standard"
+Black Russian Terrier
+"Mastiff, Tibetan"
+Chinese Crested
+COCKAPOO
+Basset Hound Crossbreed
+shep/doxie
+Collie / Retreiver
+Westie
+English Foxhound
+COCKA POO
+TOY POODLE
+MORKIE
+SHICON
 Shoorkie
-Lhasa Crossbreed
-Patterdale Terrier Crossbreed
-Pomeranian / Yorkshire Terrier
-Dalmation / Terrier / Poodle
-Podenao Port
-Terrier / Shih Tzu
-Sharpal / Rat Terrier
-Sato Crossbreed
-Chihuahua / Pug (Chug)
-Shepherd / Terrier
-Shepherd / Rottweiler
+Bearded Collie
+"Coonhound, Black and Tan"
+Black and Tan Coonhound
+Sussex Spaniel
+Poodle X
+Retriever/Dachshund Mix
+English Setter
+Patterdale Terrier
+MALTI-ZU
+Chihuahua  Mix
+Chihuahua/Shih Tzu
+Dogue de Bordeaux
+LAB/SPANIEL X
+Kooikerhondje
+Norwich Terrier
+"Coonhound, Treeing Walker"
+GOLD RETR/CHOW
+Belgian Griffon
+Hovawart
+Mini Pin Mixed
+Portuguese Podengo Pequeno
+"Collie, Bearded"
+Toy Fox Terrier
+Greater Swiss Mountain Dog
+Olde English Bulldogge
+German Spitz
+Karelian Bear Dog
+PIT BULL
+Bullmastiff
+Mastiff
+Belgian Tervuren
+American Water Spaniel
+Saint Bernard
+Mi-Ki
+"Mastiff, Neapolitan"
+Norwegian Elkhound
+German Wirehaired Pointer
+Chesapeake Bay Retriever
+French Spaniel
+Mini Dachshund
+Tibetan Spaniel
+Boykin Spaniel
+SCHNAUZER
+Kerry Blue Terrier
+Cavachon
+Dachshund/Poodle mix
+Spanish Water Dog
+Welsh Terrier
+Kuvasz
+Russell Terrier
+Mountain Feist
+HOUND MIXED
+COCKER SPANIEL MIX
+Keeshond
+"Coonhound, Blue Tick"
+Harrier
+Pit Ter Lab
+UNKNOWN
+Thai Ridgeback
+Spinone Italiano
+SHIH POO
+Schipperke
+Belgian Sheepdog
+Giant Schnoodle
+Pitbull
+Curly-Coated Retriever
+Berger Picard
+Yorkie-Maltese
+Chihuahua Mix
+Chihuahua/Pug  (Chug)
+American Hairless Terrier
+pit bull
+Australian Terrier
+Mixed Breed
+Barbet
+austrian hunting
+Hound Cattle Dog
+lab/pit mix
+BERGAMASCO
+Husky/Collie Mix
+"Mastiff, French (Dogue de Bordeaux)"
+Blue Nose Pitbull
+Labrador - Pit Bull Mix
+Chocolate Labrador Retriever
+BEA/ GOLD/ RET MIX
+Field Spaniel
+retriver mixed
+Corgy / labrador
+Dogo Argentino
+Maltese/Poodle
+Kromfohrlander
+Russian Toy
+PAPILLON / AMERICAN ESKIMO
+Briard
+Baladi
+Wheaton Terrier Mix
+min pi n/poodle
+YORKIE/WESTY   X
+BICHON-POO
+POODLE MIX
+Grand Basset Griffon Vendeen
+BOXER X
+Golden Retriever Mix
+SHORKIE
+Australian Silky Terrier
+MINI GOLDEN DOODLE
+Lab mix
+Shepard Mix
+Biewer Terrier
+MALTESE/CAV KIN
+Cock a poo
+Hound Mix
+PEAKAPOO
+Polish Hound
+Wirehaired Vizsla
+Bouvier Des Flandres
+Lancashire Heeler
+Carolina Dog
+Portuguese Sheepdog
+Norwegian Buhund
+Shih Tzu - Brussels Griffon
+Bichon/Poodle
+chihuahua mix
+Mudi
+"Mastiff, Old English"
+American Leopard Hound
+Poemranan Mix
+Bolognese
+Treeing Tennessee Brindle
+SHIHTZU-A-POO
+LAB/SHEPHERD MIX
+Australian Labradoodle
+Shih Tzu/Bichon Mix
+boerboel
+Perro de Presa Canario
+Lab retriver + pitt bull
+Swedish Vallhund
+CAVACHON
+Huckapoo
+Toy Manchester Terrier
+Malti-Poo
+PRYNESE/LAB X
+Chow Chow Mix
+HUSKY GOLDEN RETRIEVER MIX
+Finnish Spitz
+GERMAN SHEPHARD ROTTWEILER
+SHEPHERD MIX
+Yorkie Mix
+Lhasa Apso Mix
+MALTIPOO
+Pit Bull
+Hound/Lab Mix
+Clumber Spaniel
+IRISH JACK RUSS
+Shih Tzu/Poodle
+Fox Hound
+KING CH BICHON
+LG HR CHIHUAHUA
+POODLE/SHIH TZU
+Shihtese
+DACHSHUND
+SHIHT-ZU IMPERIAL
+Yorki-tzu
+MIXED HOUND
+Miniature Fox Terrier
+Shih-Poo
+shih tzu / maltese mix
+BORDER COLLIE MIX
+Chihuahua/terrier
+Germ Shep/Husky
+TERRIER MIX
+Yorkshire/Poodle
+BICHON MIX
+yorkiepoo
+HUSKY X LAB
+cock-a-poo
+"rabies,bordetella"
+Mix Poodle
+Ibizan Hound
+English Toy Spaniel
+SPITZ X
+MOUNTAIN FEIST
+poodle mix
+Maltese/Pomeranian
+LakelandTerrier
+Labrador/ Shih Tzu
+Pomeranian Mix
+yorkie/maltese
+Dandie Dinmont Terrier
+MALTESE/POODLE
+Shih Tzu/Bichon
+Havanese/Poodle
+Lhasa Apso/Poodle
+LABRADOR/COLLIE
+Polish Lowland Sheepdog
+Bloodhound
+Maltese/Havanese
+Shepherd Mix
+Rat Terrier Mix
+Dachshund Mix
+Chinook
+Yorkie-Poo Mix
+SPANIEL/CHIHUAHUA
+RAT TERRIER
+terrier mix
+CHIHUAHUA MIX
+Spanador
+AUSSIE DOXI   X
+Dalmatian Mix
+Poodle Mix
+sharpei-beagle
+SCHNAUZER/POODLE
+BRITISH LAB
+MUTT
+Tea Cup Poodle
+Schanuzer/Yorkie
+Blue Nose Pit Bull /American Pit Bull Mix
+Neapolitan Mastiff
+PIT BULL MIX
+English Golden Doodle
+TEDDY BEAR
+Shih Tzu Mix
+CHIHUAHUA X
+america eskimo and poodle
+CHIH TERR
+GOLDENDOODLE
+Beagle/Dachsund
+Viszla Mix
+YORKSHIRE/POODL
+FOX TERRIER X
+DACHSHAUN/POODLE
+YORKIE RAT TERR
+Tiny Goldendoodle
+Maltese Mix
+HAVANESE MIX
+JACK RUSS MIX
+SHIH TZU MIX
+Shih Chon
+Terrier/Shih Tzu
+Malkie
+Mixed Chow
+Icelandic Sheepdog
+Hound X
+mixed breed
+mutt
+Pit Bull/Shepherd
+BICHON POO
+Saluki
+Pyrenean Shepherd
+shepard mix
+Fox Terrier Mix
+PIT BULL  MIX
+mix corgi/lab. retriever
+cavapoo
+Beagle / Mix
+chiweenie
+Scottish Deerhound
+mix
+Beagle Mix
+ENGLISH SPRINGER SPANIEL
+BRINDLE PIT BULL
+chih mix
+Pit Bull/Lab.
+Snoodle
+ori pei
+Peek-A-Poo
+boston terrier/french bulldog
+AUSTRALIAN LABRADOODLE
+TERRIER  X
+Shih Tzu/Maltese Mix
+BEAGLE    X
+COCKALIER
+Bull Mastiff Mix
+Rottweiler Mix
+Terr Mix
+shih poo
+Cocker Spaniel /Mini Poodle Mix
+Mix Hound
+Yellow Lab
+terrier/mix
+Yorkie/Maltese
+Terrier
+Ridgeback/Rottweiler
+Yellow Labrador
+CHIHUAHUA/JACK RUSSELL MIX
+TERRIER BOXER MIX
+maltese/ yorkie
+terrier
+YORKIE/SHIH TZU
+pitbull/ pointer
+COCA-POO
+PEKAPOO
+Part Golden Retriever
+poodle
+Shih Tzu/ Poodle
+WHEATON TERRIER MIX
+Miniature Pin Mix
+Chintese
+Cattle Dog - Blue Healer
+HUSKY GER SHEP HOUND
+Cesky Terrier
+ENGLISH BULL TERRIER
+Other
+Corgi
+Boxer/Terrier Mix
+labrador/cattle dog
+Red Poodle
+SHIH-POO
+Australian Cattle Dog/Hound Mix
+Cocker/Cavalier
+Peke-A-Poo/Shih-Poo
+Small Munsterlander Pointer
+REd Pit Mix
+YORKIE-SHIH TZU
+HUSKY MIX
+BEARDED COLLIE MIX
+American Bulldog
+LAB/SHIBA INU  X
+Welsh Springer Spaniel
+YORKIE TERR MIX
+Springer Spaniel
+Border Collie Mix
+Havashire
+Chihuahua X
+SHORKIE TZU
+CAV KING C.SPAN
+RAT TERR MIX
+Golden Doodle
+BEAGLE/TERR X
+LHASA/POODLE
+SHAR PEI
+SCHNAUZER/TERR  X
+Labradoodle Mini
+Catahoula Leopard
+Collie mix
+Parsons Russell Terrier mix
+Yorkie/Toy Poodle Mix
+HOUND MIX
+COOCKAPOO
+Labrador/Terrier mix
+Jack Russell Mix
+MINI PINSCHER
+Cavapoo
+PIT BULL X
+GERMAN SHEPHERD MIX
+Yorkie / Poodle mix
+Poodle/Bichon
+YORKIE/SHIH TZU MIX
+YORKSHI/MALTESE
+Chih Mix
+SHIH TZU/MALTESE
+SHIHPOO
+TERRIER X
+Shih Poo
+australian labradoodle
+CAVAPOO
+HAVAPOO
+Teacup Yorkshire Terrier
+JACK RUSS TERR/CHIHUAHUA
+MALTEPOO
+hound mix
+Yorkie/Shih Tzu
+PEKA-POO
+AM TERRIER
+Shih-Poo Mix
+Shih Tsu/Poodle
+Pomeranian/ mix
+MINIATURE SCHNAUZER
+CHIHUAHUA/PUG MIX
+Poodle/Jack Russel Terrier  mix
+chihuahua-yorkie
+Cirneco dell
+coonhound mix
+Jack Russell Terr Mix
+Irish Water Spaniel
+Malchi
+Poodle/Spaniel
+HOUND X
+Unknown (stray)
+Yorki-poodle
+CHOW /SHARPEI MIX
+Irish Red and White Setter
+golden retreiver/great prenees
+Sheltie
+Estrela Mountain Dog
+SHIH TZU/POODLE
+LHASA POO
+MINI BULLDOG
+Yorkie/Beagle X
+pekopoo
+Cav KC
+Doxie
+Schnauzer Mix
+Laasa Apso mix
+Shih-Malt
+Frend Poo
+English Pointer
+SHIH TZU / YORKIE
+Chihuahua /Poodle
+BICHON F/T PDLE
+JAP CHIN / MALTESE
+chihuahua/mini pinscher
+SHIBA INU X
+AUST.CATTLE DOG
+Cattle Dog Mix
+MINI DOBERMAN
+Maltese/Chihuahua
+yorkie-poo
+Chocolate Labrador/Border Collie Mix
+CHIH POMER
+Chiuaua Pug mix
+YORKIE-POO
+Chihuahua/Miniature Pinscher Mix
+DACHSHUND MIX
+Possibly a Parson Russell Terrier mixed with Chiwa
+JACK RUSSELL TERR MIX
+Cocker Poo
+MANCHESTER TERRIER
+MINI PIN MIX
+LAB MIX
+lab mix
+Terrier/Australian Mix
+GOLDEN DOODLE
+Swedish Lapphund
+Chihuahua/Dachshund
+SILKY TERRIER X
+ShihTzu/Poodle
+CHIHUAHUA-JACK RUSSELL TERRIER
+YORKIE POO GREZLEY
+wheaton mix
+Mini Pinscher Mixed
+Maltese/Chihuahua Mix
+shih-tzu mix
+COCKER POO
+Jack Russell/Shih Tzu Mix
+Shihchon
+Peke-A-Pom
+Toy Aussie
+WIRE FOX TERR MIX
+Teddy Bear
+Shepherd/Boxer
+Terrier/ Whippet
+TOY POODLE MIX
+Beagle-Pei
+Bichon Frise Mix
+Hound
+BRITTANY
+Yorkie
+Malagasssy coton du tulear
+Catahoula Lab mix
+PERKINGESE/DASCHUND MIX
+Spaniel Mix
+Shep Mix
+MALTAPOO
+YORKIE POODLE X
+YORKIE
+American Staffordshire Terrier X
+Jack Russell Terrier Mix
+rat terrier
+Shih Tzu / Yorkie Mix
+ENG COCKER SPANIEL
+YORKI/POODLE
+Yorkie Mixed
+staffordshire Terrier mix
+beagle mix
+Shorkie
+cockapoo
+GERMAN SHORTHAIRED POINTER
+pit mix
+Beagle/Hound Mix
+AM ESKIMO / MALTESE
+PORTUGESE W.DOG
+Boxer Chow Lab Mix
+Chorkie
+PEK-A-TESE
+CORGI/RETRIEV X
+Blue Nose Pit Bull
+Kishu Ken
+Jack Russell / Pug Mix
+Jack Russ Terr Mix
+Australian Shepherd Mix
+LAB WEIMARNER
+CHI/DOXEN
+shih tzu mix
+DACHSHUN/CHIHUA
+BL NS PIT BULL
+Corgi Rat Terrier
+Lhaso Apso Mix
+Terrier Mixed
+FEIST MIX
+Yorkie-Poo
+Mixed breed
+Dachshund/Chihuahua Mix
+Schnauzer/Poodle Mix
+COCKA-POO
+COCKERPOO
+Mixed / ?
+RUSSEL
+Great Dane Mix
+BICHON/CAIRN
+LABRADO/GREAT D
+Boston Terrier / Lhasa Apso
+Shepherd/Hound/Lab
+Maltese/Terrier
+MALTI POO
+DOXIE
+hunting dog/rescue
+WHOODLE
+TOY SCHNAUZER
+ENG SPRINGER SPANIEL
+Lab/Hound Mix
+Yorkshire/Maltese
+Beagle/Rat Terrier
+SHORKIE-TZU
+WHIPPET MIX
+Siberian Husky/Labrador Mix
+Peruvian Inca Orchid
+pitbull
+Tosa
+Whippet/Jack Russell Mix
+German shepherd/Corgi
+boggle
+SILKY-POO
+BRUSS GRIFFON X
+SOFTC WHEAT TER
+BULLDOG MIX
+DACHS/SHIH TZU
+Pug Mix
+Cocker Spaniel/Miniature Poodle
+Spitz
+YORKIE-BICHON
+Poodle/Pompoo
+Pumi
+beagle/mix
+CHISH X
+Toy Australian Shepherd
+hound-cattle dog
+GSD-TERRIER
+Hungarian Puli
+POODLE/MALTESE
+GOLDEN RETR/CATTLE DOG
+Pomeranian - Poodle Mix
+SHELTIE SHEP MIX
+SHIBA INU/GERM SHEPHERD
+Shepherd Pintzer
+Chihuahua/Jack Russell mix
+Miniature Pinscher/Boxer
+mix/hound/lab
+German Shepherd/Husky
+MIX
+Norkie
+White Terrier
+Cur
+Finnish Lapphund
+Greek Shephard
+Labrador Retrieve Mix
+Shepherd Mis
+TOY AUSSIE
+manchester terrier
+terrier daschund mix
+Labrador- Mixed
+Shih Tzu X
+MaltiPoo
+Chihuahua/Maltese/Yorkshire Mix
+Soft-Coat Weaton Terrier
+Shih tzu mix
+SHIH TZU/BICHON FRISE MIX
+Peekapoo
+chi-spaniel
+LAB/CHOW CHOW
+HAVACHON
+SATO X
+COOCKER-POO
+Shepherd  X
+Pompoo
+Azawakh
+Bichon/Shih Tzu
+SHITZU /POODLE
+YorkshireTerrier /Shih Tzu Mix
+Puggle/Beagle Mix
+YORKIESHIRE MALTESE
+TOY FOX TERRIER
+YORKIDOODLE
+COCK-A-POO
+Shepherd/Collie
+SPANIEL MIX
+Belgian Laekenois
+POINTER MIX
+pitbull mix
+Pointer Mix
+BEARDED COLLIE  X
+MIXED/AUSTRALIAN TERRIER
+MINIATURE BULL DOG
+POTCAKE
+DACH / CHIH
+Fox Terrier
+boxer/pit mix
+Yorkie/Bichon
+Terrier  Mixed
+Fox Hound Mix
+MALTESE/YORKIE
+Nova Scotia Toller
+LAB RETRIEVER   MIX
+Boston Terrier Mix
+COLLIE
+LAB RETRIEVER MIX
+LAB/SPANIEL MIX
+CHIHUAHUA TERRIER
+RED NOSE PIT BULL
+CHIHUAHUA TERRIER MIX
+Mini Golden Doodle
+AFFENPINSCHER
+Red nose pit bull terrier
+Berger Pichard
+Maltese / Shih tzu
+dachshund
+BICHON-POODLE
+YORKI-POO
+Retriever/Chow
+BEAGLE MIX
+Pug/Beagle
+french bulldog/pug
+Smooth Hair Fox Terrier
+Miniature Dachshund
+Collie Shepherd Mix
+CHINESE CRESTED
+Husky/Lab Mix
+RETRIEVER MIX
+POINTER X
+Glen Of Imaal Terrier
+Rescued. Beagle/shih tzu
+mostly labrador retriever
+toy aussie
+Tornjak
+whoodle
+zuchon
+RAT TERR
+MAERICAN STAFFORDSHIRE MIX
+Jack Russell & Fox Terrier
+Yorkie/fox terrier mix
+Border Collie-Shepherd Mix
+Jagdterrier
+Chihuahua Mixed
+Mixed Terrier
+TERRIER
+Long Hair Chihuahua
+Bichon/Poodle Mix
+JOY FOX TERRIER
+Hound Mastiff
+German Shepherd Mix
+Havanese/Maltese
+Cocoer-poo
+"Vizsla, mini pin"
+SCHNOODLE
+hound beagle
+Teddy-Bear
+Blackmouthcur
+Toy Austrialian Shepherd
+Terrier/Corgi Mix
+Chihuahua/ Dachshund
+Westiepoo
+Husky Malamute
+Red Tick Coonhound
+Mix
+COLLIE MIX
+MALTE-POO
+chow mix
+Bichon-Poo
+JACK RUSSELL  CROSS
+CHI-POO
+Pomtese
+Black Lab mix
+RUSSKIY TOY SMOOTHHAIRED
+BORDER COLLIE X
+Pomeranian-Maltese
+GOLDEN RETRIEVER MIX
+Taiwan Mountain Dog
+Mini Labra-Doodle
+Walker Hound
+MALT MIX
+ITALIAN SPINONE
+Pointer/Border Collie
+Canaan
+Collie / Lab
+Chow Chow/Bull Terr.Mix
+Border Collie-Black Labrador Retriever Mix
+SPANISH WT.DOG
+morkie
+Maltese/ Shih Tzu
+Corgi Mix
+Maltese/Shih Tzu
+BOXER/PITT
+SHIFFON
+Pomapoo
+lab terr mix
+Chihuahua/Jack Russel
+unknown
+Catahoula
+PEAGLE
+Dachshund / Retriever Mix
+Dachshund-Scottie
+Havenese/Shih-Tzu Mix
+Collie /Springer Terrier Mix
+Havachon
+Maltese-Pomeranian
+Caroline Dog
+Corgi or Jack Russell mixed with Black Lab and Pit
+BOST TERR/LHASA
+TERR / SHEP
+Shepherd/Golden Retreiver
+MIX TERRIER
+Maltese  / Poo
+Terrier and Chihuahua mix maybe
+BOSTON TERR/MIN BOXER
+LHASA APSO MIX
+pom-chi
+Havanese Mix
+Chi wee nie
+Bernedoodle
+Hound Terrier Mix
+DACHSHUND / DOXIE
+retriever mix
+Shepherd/Doberman Mix
+Lab Bord Collie X
+BLACK LAB MULTI
+Labrador/Boxer/Beagle
+GoldenDoodle
+HAVACOV
+labrador retriever hound mix
+DOXIE CHIHUAHUA
+dachshund/chihuahua mix
+schipperke mix rescue
+labrador retriever/mix
+Chow/Collie/Shepherd Mix
+COCK A POO
+TERRIER   X
+BORDER TERRIER
+pit
+Plott Hound Mix
+Schnoodle
+German pinscher
+Poddle&Maltese Mix
+JACK RUSSELL
+CORGI/RETRIEVER MIX
+maltese/yorkie
+MALTESE-SHIHTZU
+CHIHUAHUA/DACHS
+Terrier X
+Doxen/ Petit Basset Griffon Vendeen
+S.C.WHEATEN TER
+Cockalier
+airedale terrier
+BLUE NOSE PIT BULL TERR
+Breed Information Not Provided.
+Jack Russell Terrier X
+SHEPARD MIX
+Yorkie Poodle
+POODLE/SCHNZR X
+SHINESE
+Chihuahua/Terrier
+TIBETAN TERRIER MIX
+Unknown Hound mix
+Border Collie/Heeler Mix
+BOXER MIX
+Chihuahua  Mixed
+Lhasa Mix
+Mini Pinscher/Chihuahua Mix
+Westy/Yorkie/Chihuahua
+Yorky
+collie
+CHIWEENIE
+Mahshih
+Bull Dog / Beagle
+Chow Chow X
+ENGLISH SHEPHER
+PUG/CHIHU/POMER
+Labrador Retriever-Border Collie Mix
+PIT MIX
+Yorkie/ Maltese
+Ori-Pei
+Chihuahua/Yorkshire Terrier
+Labrador/G.Shep
+POOCHON
+Rat Terrier X
+Yorkshire Terr. Mix
+LAB-AUSTRALIAN SHEPHERD MIX
+CHIHUA/TER/DSCH
+Papillion Mix
+Pit Mix
+beagle / dachshund
+Stabyhoun
+FRENCH POODLE
+Labrador / Pit Bull Mix
+mixed
+Puggle (Pug Mix)
+Husky/Labrador Retriever
+BEAGLE / JACK RUSSELL  X
+LAB GOLD RET CROSS
+BOSTON TERR   X
+POODLE/YORKY
+MINI LABRADOODLE
+SCHNAUZER-POODLE
+Lab-Chow-Newfie Mix
+Maltese / Shih Tzu Mix
+Maltese/Shih Tzu/Pomeranian
+lab Terr mix
+AMER PIT BULL TERR MIX
+Malti Poo
+Pit Bull  Mix
+BREED?
+Lhasa Apso - Poodle Mix
+Shepherd  Mix
+Lab Mix
+Jack Russell Terrier/Puggle
+Cocker-Pug
+Basenji Mix
+chih/dach mix
+POM / YORKIE
+Yorkie / Maltese
+HOUND/PIT BULL
+Shih Tuz/Poodle
+Pekingese Mix
+Peke-A-Tese
+Chinese Crested Powder Puff
+Mini Aust.Shepherd
+Maltese/Terrier/Poodle Mix
+HEELER/COLLIE MIX
+AMERICAN BULLDOG
+CATAHOULA LEOPARD CUR
+cocker spaniel/poodle mix
+MALSHIPOO
+Rat Terrier   X
+Irish Weaton
+CATTLEDOG MIXED
+Lab terr x
+Welsh Corgi Mix
+mix breed
+CAVA POO
+Collie/Retriever
+Rat terrier mix
+Schnauzer/Terrier Mix
+jack russel terrier mix
+YORKSHIRE TERRI
+PIT BULL/LAB MIX
+Pit/Lab
+bichon frise / shih tzu
+Beagle/Fr.Bull Dog
+Shipa
+Peek -A-Poo
+bichon/shihtzu
+Shih Tzu/Bischon Mix
+shepherd mix
+Chihuahua/Greyhound
+Havanese/Chihuahua
+Peke A Ppp
+Zuchon
+poodle/terrier
+MALT/YORKSHIRE TERRIER
+Whippet-Labrador Mix
+spaniel mix
+Westie-Poodle
+DACHSUND / MIX
+Rottweiler/Chow Mix
+chihuahua/terrier mix
+Pekingese/Shih Tzu Mix
+BIEWER TERR
+Schnauzer/Poodle
+Blue Heeler / Schnauser
+Bull Dog/Sher pei Mixed
+Shih Tzu / Terrier mix
+Staffordshire/Pit
+engish pointer
+Small Fox Terrier
+Border Collie Ausie Shep X
+Poodle/ShihTzu
+Chihuahua / Mixed
+UNKNOWN BREED?
+CATTLE DOG MIX
+patterdale mix terrier
+DACHSHUND   X
+CHOW CHOW MIX
+Chihuhahu/Dachshund Mix
+PUG MIX
+ZUCHON
+Westi-Poo
+Lab Bord Collie
+Matipoo
+"rotweiller, german shepard"
+MIN SCHNAUZER/MIN POODLE
+CROSS BREED
+Potcake
+Pinscher Mix
+westie terrier-schnauser mix
+ALASKAN KLEE KAI
+Shorky
+TOY MALTESE
+Poo-Chon
+TEACUP POODLE
+Chihuahua/Yorkie Mix
+YORKIE POO
+Pomerian Mix
+SCHNOODLE X
+Pomeranian mix
+SHEPHERD/ROTTIX
+Terri / Havanese
+GOLDEN RET HUSKY MIX
+CHIH/POO
+Yorkshire Terrier Mix
+BOSTON TERR MIX
+AUS SHEP/HEELER/RET
+GER/BOR COLL X
+YORKSHIRE X
+SHIH TZU
+YORKIE POODLE
+YORKSHIRE TERR X
+Cav King Ch Sp /Mix
+Manchester Shepherd Mix
+Shichon
+ENG SETTER
+Lhasa-Poo
+Yellow Lab Mix
+Scott Terr/Shih Tsu
+Yorkie/Poodle
+SHIH TZU/CHIHUAHAUA MIX
+ENGLISH MASTIFF
+Lab Mutt Mix
+Lhasa Apso /Shih Tzu
+MALTESE SHIHTZU
+OLDE ENGLISH BULL DOG
+CAIRN TERRIER X
+ENGLISH PUG
+Harrier Mix
+Schnauzer
+Cavalier King Charles/Bichon
+SCHNOCKER
+Maltpoo
+AMERICAN PIT BULL
+beagle/hound
+collie- shepherd mix
+YORKER/JACKRUSELL/CHIHUAHUA
+Lhasa Apso Miix
+Lab Pointer Hound
+"Pembroke Welsh Corgi, Dachshund, Spaniel Mix"
+Chow Chow/ Lab
+6152012
+Poodle/Italian Greyhound
+Mini Shepherd X
+Maltese / mix
+Beagle/English Bull Dog
+yorkie poodle
+Staffordshire Terrier Mix
+TREEING WALKER COONHOUND
+TEACUP MALTESE
+Miniature Dacshund
+Maltes/Shih Tzu
+Hound x
+AUS.CATTLEDOG X
+MALT - POO
+Bugg
+Terrier  X
+Terrier mixed
+Podengo Pequeno
+Cavalier
+WESTMINSTER TER
+PITBULL/MASTIFF MIX
+Pit Bull/Mastiff
+HAVADOODLE
+Havapoo
+Goldendoole
+SHIH TZU POODLE MIX
+SHEPHERD  MIX
+Jack Russell/Basenji
+SCHNAUZER X
+Jack Russell Terrier- Chihuahua Mix
+"Possibly part terrier, part Labrador retriever"
+Boston Terrier-Beagle
+HavaChon
+SHIH TUZ & POODLE MIX
+BEARDED COLLIE
+BRUSSEL GRIFFON
+corg mix
+terr mix
+Otterhound
+AM PIT BULL MIX
+Beagle/Chihuahua
+border collie mix
+DOBERMAN
+Bracco Italiano
+Fila Brasileiro
+Bichon-Poodle
+LHASA APSO/POOD
+Feist Mix
+Husky and Akita Mix
+FOX TER/C.SPAN
+Yorkie-Bichon
+PARSON RUSSELL TERRIER
+Blue Merle Sheltie
+dachshund mix
+CAVASHON
+Havenese-Poodle
+RAT TERRIER MIX
+pug-bijon
+Shih Tzu  Mix
+Polanese
+ROYAL BAH POTCA
+French Beagle
+YORKIE TERRIER MIX
+LABRADOR/TERRIER
+Hamiltonstovare
+SHAR-PEI
+Blue Heeler
+POMERANIAN MIX
+Miniature Schnauzer/Silky Terrier
+LAB/CORGI X
+IBIZAN HOUND
+Pyrenees Poodle Mix
+CavaChon
+SHIH/MALTESE
+Maltese/shitzu
+Maltepoo
+Boxer / Shepherd Mix
+STANDARD POODLE
+Silky Terrier Mix
+dach mix
+JACK RUS CHIHUA
+BRAUZER
+PEAK-A-POO
+Labrador- Pointer Mixed
+bichon-poodle mix
+Mi-KI
+LHASA APSO/SHIH
+Chihuahua Short Coat
+Chow / Retriever Mixed
+Cava-poo
+Lhasa/Malt
+ITALIAN GREYHOUND TERR MIX
+Terrier/Pointer Mix
+chi-Yorkie
+Shysuu Poodle Mini
+Shit-zu mix
+LAB/SHEPHERD X
+MALTI-POO
+Havapeke
+Pug/Chihuahua
+Lab mixed
+SHIH TZU/YORKIE
+LAB/COLLIE MIX
+schnoodle
+Poodle /Cocker Spaniel Mix
+PIT BULL TERRIER
+Aust Heller Mix
+PIT BULL TERR MIX
+Peagle
+SHIMALT
+LAB/GOLDEN RETRIEVER
+Basset/Beagle Mix
+Red Bone Coon Hound
+Pekingese/Poodle
+Shitzu X
+COLLIE/SHEPHERD MIX
+Bichon Poo
+pointer mix
+Beagle/Dachshund Mix
+Golden doodle
+Mini Poodle Mix
+Shepherd/Hound
+YORKIEPOO
+JACK RUSSEL  & TOY FOX TERR
+Breed ?
+pit bull mix
+SHIHCHON
+Shih Tzu/Lhasa
+Yorki-Poo
+PITBULL-BULLDOG
+MALT POODLE
+Soft Coat Weaton Terrier
+AUSTRALIAN SHEP
+Shepherd/Chow
+maltipoo
+Havanese/Cavalier King Charles mix
+Yorkshire Terrier Toy
+Lab Golden Mix
+Miniature Schnauzer/Poodle Mix
+BL NOSE PIT BULL
+AM STAFF TER X
+Mini Australian Shepherd
+ITAL GREYHOUND MIX
+shepherd/collie mix
+MULTI
+TERR MIX
+Crossbreed
+GERMAN SHEPHERD
+POODLE/BICHON
+Golden Retiever Mix
+SHEEP DOG
+Amer.Eskimo Dog Mix
+Beagle- Chow- Shepherd Mix
+Shitzu/Poodle
+shepherd/terrier
+CHI/DACH MIX
+DACHSHUND/POMER
+AMERICAN SPANIEL MIX
+PARSON RUSSELL TERR
+LABRADOR/FOX TERR MIX
+spaniel/terrier?
+French Poodle
+"SHIH-TZU, POODLE"
+Taiwan Mountain
+BORDER COLLIE  X
+Shih Tzu / Maltese Mix
+HOUND/YELLOW LABRADOR
+Miniature Poodle /Shih Tzu Mix
+Retreiver X
+LHASA-POO
+BEAGLE/COCKER SPANIEL MIX
+Terrier / Hound
+JACK RUSS TERRI
+PIT/LAB   X
+BEAGLE/SHEPHERD MIX
+Morky
+english mastiff
+BERNSES MOUNT DOG MIX
+Poodle/Yorkie
+Shih tzo mix
+Mini Pinscher/ Chihuahua Mix
+GOLDEN RETR/CORGY MIX
+WHEATON TERRIER/KING CHARLES CHU MIX
+Beagle/Terrier Mix
+X golden wolf hound
+corgi/akita
+Yorkshire-Poodle Mix
+Bichon Frise/Poodle-Terrier
+Jack Russell / Mini Aussie Mix
+COTON DE TULEAR
+Maltese / Yorkie Mix - Morkie
+Mutt
+Schnauzer /Poodle Mix
+Xoloitzcuintli/Basset Hound
+Louisiana Catahoula Leopard
+"MALTESE/POODLE,TOY"
+AUST SHEPHERD
+mutt from shelter.  looks like border collie
+Yorkie/Fox Terrier
+Whippet Mix
+Husky Mix
+Shih Tzu/Terrier
+Lhatese
+Chihuahua mix
+MIX-BORDER COLLIE -HUSKY-SHEPHERD
+Catahoula Leopard/Mix
+SHIHTZ/POODLE X
+LHASA-BIJON
+COLLIE/SHEP MIX
+SHORKY
+PUG/CHIHUAHUA
+PODENAO PORT
+Mini Bull Terrier
+BRITTANY SPAN
+POODLE MIXED
+Havanese/Coton Detulear
+Aust.Shepherd Mix
+BASENJI/TERR X
+MASTIFF X
+BORDER COLLIE/AUSTRALIAN SHEPHERD
+Lab/Pit Bull
+Basenji/whippet
+W HIGH WT TERR
+Staffordshire Ibizian Hound
+Shih Tzu / Poodle Mix
+AKITA MIX
+SHEP MIX
+cokaspinial poodle
+Fox/Sheltie
+welsh terrier
+BEAGLE-JACK RUSSELL
+Germ Shep/Siberian Husky
+BEAGLE/BOXER X
+MALTI-SHI
+Pom-Chi
+"Sapsal, Korea"
+Multi-Poo
+Maltese-Terrier Mix
+COLLIE RETRIEVER MIX
+HUSKY/KELPIE
+Hound Mixed
+POODLE/WESTIE
+Aussie Cattle Dog Heeler
+Pekingese - Maltese Mix
+AM STAFFORD TERRIER MIX
+Rat Terrier/Poodle Mix
+maltese westie mix
+SHIH TZU X
+Russian Wolfhound
+HOUND TERRIER MIX
+Cocker-Poo
+PATTERDALE TERRIER MIX
+peke-a-poo
+Yorkie/Terrier/Bichon
+SHIBA INU
+Stafford Shire mix
+Sheltie/Jack Russ Mix
+Maltese/ Shih Tzu Mix
+Pit Bull/German Shepherd
+chinese crested
+BASSETT TERRIER MIX
+AUST CTTLE DG X
+Shotzy Mix
+Husky Mixed
+Terrier/Labrador X
+BOSTON BULLDOG
+unknown mix
+KOOIKERHONDJE
+wire haired terrier
+Cigi
+cockachon
+WELSH CORGI   X
+Labrador/Coon Hound
+BRITTANY   X
+YORKIE/CHIHUAHUA
+Collie Mix
+Pit Bull Mastiff
+HUSKY/GERM SHEPHERD MIX
+TOY AUSTRALIAN SHEPHERD
+Lab/Doberman/Sheepdog
+Tibetan Terrier/Havanese Mix
+Maltese Chihuahua Mix
+Wheaton Mix
+canine
+Beagle Mixed
+DOGO ARGENTINO
+Italian/Sicilian hound
+Miniature Pincher Mix
+Coton
+CHIHUAHUA/YORKIE MIX
+Jack Russell X
+papitese
+Cocker Spaniel / Poodle
+CHOW CHOW X
+MALTESE MIX
+BIUCHON/POODLE MIX
+Malsish
+Shepherd /Pit Bull Mix
+YELLOW LAB/SHEPHERD MIX
+Aierdale Terrier
+Spinone
+TERR DASH MIX
+Sharpal - Rat Terrier
+SHIHMALT
+YORKIE/MALTESE MIX
+Bull Dog Mix
+shit zu/poodle
+AMERICAN STAFFORDSHIE
+IR TERR/BAS HOU
+JACKABEE /RUSS
+Hound/Labrador Mix
+Spaniel/Labrador
+Hound / Retriever Mixed
+Askal
+Australian Shepard mix?
+Welsh  Springer Spaniel
+FLAT-COATED RETRIEVER
+LHASA APSO/TERR
+Terrier/Beagle
+Cocker Spaniel/Poodle Mix
+Border Collie X
+Poodle/pomeranian mix
+AM STAFFORDSHIRE TERR
+WELSH SPRINGER SPANIEL
+"shepherd, terrier, mastiff mix"
+PINSCHER-CHIH
+Beagle/Shepherd Mix
+Mastiff/Shepherd
+lab/border collie mix
+FRENCHIE
+HAVA POO
+PETERSBURG ORCHID
+Dogo/Pitbull/Bulldog mix
+TERRIER MX
+CAVAZOO
+Shepherd/Terrier Mix
+Unknown/Cross
+Yorkshire Terrier/Dachshund Mix
+MINI AUST SHEP
+Dalhsund Maltese terrier mix
+Small Munsterlander
+WELSH TERRIER
+Maltese X
+Sheltie Mix
+Great Swiss Mountain Dog
+PITBULL MIXED RED/BLUE NOSE
+Carolina mix
+YORKISHIRETERRIER/ MALTESE MORKIE
+Shih Tzu mix
+Boxer/Hound Mix
+Dachshund/Beagle
+BULL DOG MIX
+miniature poodle / cocker spaniel
+Golden Retriever/Labrador Mix
+CORKY MIX
+ENGLISH COCKER SPANIEL
+English Pointer Mix
+Pekapoo
+Boxer-Lab X
+Rottweiler/Labrador Retriever
+Slorky
+CHOW MIX
